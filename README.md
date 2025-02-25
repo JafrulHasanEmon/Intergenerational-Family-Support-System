@@ -4,19 +4,19 @@ CQ University Brisbane and Brisbane City Council developed IGFSS to connect youn
 
 ![](Screenshots/tc1.1.png)
 
-![](Screenshots/tc2.png.png)
+![](Screenshots/tc2.png)
 
-![](Screenshots/tc3.png.png)
+![](Screenshots/tc3.png)
 
-![](Screenshots/tc4.png.png)
+![](Screenshots/tc4.png)
 
-![](Screenshots/tc4.1.png.png)
+![](Screenshots/tc4.1.png)
 
-![](Screenshots/tc5.png.png)
+![](Screenshots/tc5.png)
 
-![](Screenshots/tc6.png.png)
+![](Screenshots/tc6.png)
 
-![](Screenshots/tc7.png.png)
+![](Screenshots/tc7.png)
 
 
 
